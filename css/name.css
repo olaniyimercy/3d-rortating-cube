@@ -18,7 +18,7 @@
     }
 
     10% {
-        content: 'build';
+        content: 'BUILD';
     }
 
     20% {
@@ -26,7 +26,7 @@
     }
 
     30% {
-        content: 'code';
+        content: 'CODE';
     }
 
     40% {
@@ -34,10 +34,10 @@
     }
 
     50% {
-        content: 'develop';
+        content: 'DEVELOP';
     }
 
     100% {
-        content: 'website';
+        content: 'WEBSITE';
     }
 }
